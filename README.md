@@ -47,6 +47,7 @@ B2B contracting is a viable option.
 </table>
 
 
+<!--
 <table align="left">
     <tr>
         <td style="padding: 15px; ">
@@ -64,6 +65,7 @@ B2B contracting is a viable option.
         </td>
     </tr>
 </table>
+-->
 
 
 <!--
